@@ -80,6 +80,21 @@ background: linear-gradient(45deg, #a8e0639e, #56ab2fcf);
     color: #EA5E5D;
 }
 
+#about-us img.icon{
+    min-width: 45px;
+    max-width: 45px;
+    margin-right: 15px;
+}
+
+.items {
+    display: flex;
+    align-items: start;
+}
+
+.items div h3 {
+    font-size: 25px;
+}
+
 .email-submit-area{
     background-color:#f7efda;
     height: 300px;
@@ -102,21 +117,3 @@ background: linear-gradient(45deg, #a8e0639e, #56ab2fcf);
     color: white;
     font-size: 12px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
